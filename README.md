@@ -1,2 +1,14 @@
 # hupunet-journal
-HTML page archive and documentation
+
+自动页面托管记录
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
